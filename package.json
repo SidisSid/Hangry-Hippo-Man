@@ -1,0 +1,22 @@
+{
+  "name": "hangry-hippo-man",
+  "version": "1.0.0",
+  "description": "",
+  "main": "javascript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SidisSid/Hangry-Hippo-Man.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SidisSid/Hangry-Hippo-Man/issues"
+  },
+  "homepage": "https://github.com/SidisSid/Hangry-Hippo-Man#readme",
+  "dependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
